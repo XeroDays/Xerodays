@@ -31,6 +31,8 @@
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-s3.svg"/> 
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-rds.svg"/> 
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-iam.svg"/> 
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-cloudfront.svg"/> 
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-dynamodb.svg"/> 
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-ec2.svg"/> 
   
 
