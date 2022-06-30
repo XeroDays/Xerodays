@@ -3,6 +3,7 @@
 <div align="center">
   
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg"/> 
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/database-labs.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg"/>
