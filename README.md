@@ -19,6 +19,7 @@
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/arduino.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/php.svg"/>
 
 </div>
 
