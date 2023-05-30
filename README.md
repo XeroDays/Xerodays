@@ -40,3 +40,22 @@
 
 </div>
 
+
+####
+
+Outside of [GitHub](https://github.com/xerodays/), You can **find me**. Currently I'm **free to contribute**
+
+<p >
+  <a href="https://github.com/xerodays?tab=followers">
+    <img src="https://komarev.com/ghpvc/?username=shahsomething&color=blue&label=Profile+Views" alt="GitHub badge" />
+  </a>
+  <a href="https://github.com/xerodays?tab=followers">
+    <img src="https://img.shields.io/github/followers/shahsomething?label=follow&style=social" alt="GitHub badge" />
+  </a>
+  <a href="https://twitter.com/xerodays">
+    <img src="https://img.shields.io/twitter/follow/shahsomething?style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayedidrees/">
+    <img src="[https://img.shields.io/badge/-ShahRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayedidrees/](https://media.licdn.com/dms/image/D4D03AQHlCOYQjkQ9dg/profile-displayphoto-shrink_400_400/0/1676434791649?e=1691020800&v=beta&t=8jieQ3onJuzrM1bIa1nMoz1urJFvZWSF7VHAARsQGmA)" />
+  </a>
+</p>
