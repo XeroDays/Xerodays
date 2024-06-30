@@ -43,7 +43,7 @@
 
 ####
 
-Outside of [GitHub](https://github.com/xerodays/), You can **find me**. Currently I'm **free to contribute**
+Outside of [GitHub](https://github.com/xerodays/), You can **find me**. I'm here **free to contribute**
 
 <p >
   <a href="https://github.com/xerodays?tab=followers">
