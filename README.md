@@ -1,5 +1,46 @@
 
+
+
+## Tech Stack ❄️
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,nodejs,php,py,tensorflow,unity" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,dynamodb,firebase,mongodb,mysql,postgres,sqlite,supabase" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,powershell,gradle" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,anaconda,androidstudio,blender,figma,ae" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,kali,stackoverflow,visualstudio,vscode" />
+  </a>
+</p>
+
+
+## Tech Stack :computer
+## Tech Stack :computer
+## Tech Stack :computer
+## Tech Stack :computer
+
  <img   title="C-Sharp" src="https://raw.githubusercontent.com/XeroDays/Xerodays/refs/heads/main/sayed%20idrees.png" alt="C#"/>
+
 
 ## Tech Stack :computer
 <div align="center">
