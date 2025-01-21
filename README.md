@@ -1,6 +1,6 @@
 
 
- <img   title="C-Sharp" src="https://raw.githubusercontent.com/XeroDays/Xerodays/refs/heads/main/sayed%20idrees.png" alt="C#"/>
+ <img   title="sayed idrees" src="https://raw.githubusercontent.com/XeroDays/Xerodays/refs/heads/main/sayed%20idrees.png" alt="sayed idrees"/>
 
 ## Tech Stack ❄️
 <p align="center">
