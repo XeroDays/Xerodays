@@ -9,27 +9,27 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,dynamodb,firebase,mongodb,mysql,postgres,sqlite,supabase" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,powershell,gradle" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git,githubactions,gitlab,anaconda,androidstudio,blender,figma,ae" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
     <img src="https://skillicons.dev/icons?i=apple,kali,stackoverflow,visualstudio,vscode" />
   </a>
 </p>
