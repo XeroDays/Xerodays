@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,anaconda,androidstudio,blender,figma,ae" />
+    <img src="https://skillicons.dev/icons?i=git,githubactions,gitlab,anaconda,androidstudio,blender,figma,ae" />
   </a>
 </p>
 <p align="center">
