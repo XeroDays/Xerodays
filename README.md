@@ -1,7 +1,7 @@
 
-
+  <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
  <img   title="sayed idrees" src="https://raw.githubusercontent.com/XeroDays/Xerodays/refs/heads/main/sayed%20idrees.png" alt="sayed idrees"/>
-
+  </a>
 ## Tech Stack ❄️
 <p align="center">
   <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
