@@ -4,7 +4,7 @@
 
 ## Tech Stack ❄️
 <p align="center">
-  <a href="https://www.softasium.com">
+  <a href="https://www.softasium.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,nodejs,php,py,tensorflow,unity" />
   </a>
 </p>
