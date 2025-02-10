@@ -1,8 +1,9 @@
 
-  <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
+<a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
  <img   title="sayed idrees" src="https://raw.githubusercontent.com/XeroDays/Xerodays/refs/heads/main/sayed%20idrees.png" alt="sayed idrees"/>
   </a>
-## Tech Stack ❄️
+  
+<h2>Tech Stack ❄️</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,nodejs,php,py,tensorflow,unity" />
