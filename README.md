@@ -6,7 +6,7 @@
 <h2>Tech Stack ❄️</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,nodejs,php,py,tensorflow,unity" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,unity,tensorflow,nodejs,php,py,flask" />
   </a>
 </p>
 <p align="center">
