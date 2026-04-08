@@ -6,7 +6,7 @@
 <h2>Tech Stack ❄️</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,unity,tensorflow,nodejs,php,py,flask" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,unity,tensorflow,nodejs,php,py,flask,angular,react,electron" />
   </a>
 </p>
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,powershell,gradle" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,powershell,gradle" />
   </a>
 </p>
 <p align="center">
@@ -31,9 +31,10 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=apple,kali,stackoverflow,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=apple,kali,stackoverflow,visualstudio,vscode,postman" />
   </a>
 </p>
+ 
 
  
 
