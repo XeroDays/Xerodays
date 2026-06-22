@@ -1,9 +1,10 @@
 
 <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
- <img   title="sayed idrees" src="https://raw.githubusercontent.com/XeroDays/Xerodays/refs/heads/main/sayed%20idrees.png" alt="sayed idrees"/>
+ <img width="1121" height="412" alt="image" src="https://github.com/user-attachments/assets/15a38b33-92e5-4e16-9d55-2d0c692463f9" />
   </a>
   
-<h2>Tech Stack ❄️</h2>
+
+2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,unity,tensorflow,nodejs,php,py,flask,angular,react,electron" />
