@@ -4,8 +4,7 @@
   </a>
   
 
-
-2>
+ 
 <p align="center">
   <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,unity,tensorflow,nodejs,php,py,flask,angular,react,electron" />
