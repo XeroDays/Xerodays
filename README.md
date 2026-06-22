@@ -1,8 +1,9 @@
 
 <a href="https://www.linkedin.com/in/sayedidrees/" target="_blank">
- <img width="1121" height="412" alt="image" src="https://github.com/user-attachments/assets/15a38b33-92e5-4e16-9d55-2d0c692463f9" />
+<img width="1120" height="407" alt="image" src="https://github.com/user-attachments/assets/17083e88-84ec-45d2-b67e-1c9875b19eb5" />
   </a>
   
+
 
 2>
 <p align="center">
